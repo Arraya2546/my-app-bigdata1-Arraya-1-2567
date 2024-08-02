@@ -1,5 +1,5 @@
 import React from "react";
-import GetApp from "../components/GetApp";
+import GetApp from "../../components/GetApp";
 
 export default function page() {
   return (
